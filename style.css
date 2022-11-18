@@ -6,6 +6,11 @@
     color: #0648b3
 }
 
+.oraginaztion-container{
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
 .oraginaztion-logo-image{
     width: 120px;
     height: 120px;
@@ -23,4 +28,8 @@
 
 .tool-section-nav-item-style{
     color: black;
+}
+
+.tool-section-nav-item-link-style{
+    text-decoration: none;
 }
