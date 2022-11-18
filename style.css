@@ -33,3 +33,24 @@
 .tool-section-nav-item-link-style{
     text-decoration: none;
 }
+
+.faster-growth-logos-style{
+    font-size: 30px;
+}
+
+.faster-growth-section-bg{
+    background-color: #f4f6fc;
+}
+
+.faster-growth-section-container{
+    padding: 100px;
+}
+
+.impact-information-section-container{
+    padding: 100px 0px;
+}
+
+.impact-information-section-link{
+    color: white;
+    text-decoration: none;
+}
